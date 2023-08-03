@@ -100,7 +100,7 @@ p {
 
     margin: 0 20px 5px;
 
-    height: 114px;
+    height: 130px;
     width: auto;
 
     position: relative;
@@ -127,8 +127,8 @@ p {
     top: 5px;
     left: 5px;
 
-    width: 104px;
-    height: 104px;
+    width: 120px;
+    height: 120px;
 }
 
 .confirmation .type-desc {
@@ -145,19 +145,19 @@ p {
 .confirmation .headline {
     position: absolute;
     top: 5px;
-    left: 114px;
+    left: 130px;
 
     font-weight: 500;
-    font-size: 26px;
+    font-size: 30px;
 }
 
 .confirmation .summary {
     position: absolute;
-    top: 40px;
-    left: 114px;
+    top: 48px;
+    left: 130px;
 
     font-weight: 300;
-    font-size: 21px;
+    font-size: 23px;
 
     text-align: left;
 }
