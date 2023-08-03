@@ -100,8 +100,8 @@ p {
 
     margin: 0 auto 5px;
 
-    height: 94px;
-    max-width: 1000px;
+    height: 114px;
+    width: auto;
 
     position: relative;
 }
