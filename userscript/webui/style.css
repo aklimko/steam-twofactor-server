@@ -67,17 +67,17 @@ p {
 
 #refresh-btn {
     margin-top: 8px;
-    font-size: 30px;
+    font-size: 34px;
 }
 
 #accept-all-btn {
     margin: 55px auto 0;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 #no-confs-msg {
     font-weight: 300;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 #accept-all-btn, #no-confs-msg, #confs-container {
