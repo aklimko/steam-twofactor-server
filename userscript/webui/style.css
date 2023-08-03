@@ -67,11 +67,12 @@ p {
 
 #refresh-btn {
     margin-top: 5px;
+    font-size: 28px;
 }
 
 #accept-all-btn {
-    margin: 20px auto 0;
-    font-size: 24px;
+    margin: 50px auto 0;
+    font-size: 35px;
 }
 
 #no-confs-msg {
@@ -99,7 +100,7 @@ p {
     margin: 0 auto 5px;
 
     height: 74px;
-    max-width: 750px;
+    max-width: 850px;
 
     position: relative;
 }
