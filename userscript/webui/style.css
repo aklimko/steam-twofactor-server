@@ -59,6 +59,7 @@ button:hover, button:active {
 
 p {
     margin: 0;
+    font-size: 20px;
 }
 
 #account-info {
@@ -67,17 +68,17 @@ p {
 
 #refresh-btn {
     margin-top: 8px;
-    font-size: 34px;
+    font-size: 40px;
 }
 
 #accept-all-btn {
     margin: 55px auto 0;
-    font-size: 40px;
+    font-size: 44px;
 }
 
 #no-confs-msg {
     font-weight: 300;
-    font-size: 40px;
+    font-size: 44px;
 }
 
 #accept-all-btn, #no-confs-msg, #confs-container {
