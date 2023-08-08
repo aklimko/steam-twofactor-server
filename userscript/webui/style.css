@@ -54,7 +54,7 @@ button {
     cursor: pointer;
 
     color: #c4c4c4;
-    padding: 15px 15px;
+    padding: 20px 20px;
 }
 
 button:hover, button:active {
@@ -67,7 +67,7 @@ p {
 }
 
 #account-info {
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 #refresh-btn {
@@ -77,7 +77,7 @@ p {
 
 #accept-all-btn {
     margin: 55px auto 0;
-    font-size: 44px;
+    font-size: 50px;
 }
 
 #no-confs-msg {
